@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="chanel_name">Facebook</string>
+    <string name="chanel_desc">chenda also comment on your posted.</string>
+    <string name="notification_big_pic_view_summary">
+        Summarizing
+        Instead of displaying multiple notifications, you can create one notification that summarizes
+        them all. For example, a messaging app might have a summary notification that says "3
+        new messages.” Upon expansion, it could show a snippet for each message.
+    </string>
+</resources>
