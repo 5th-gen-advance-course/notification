@@ -13,4 +13,14 @@
         android:text="Push notification one chanel"
         android:id="@+id/btnOneChanel"/>
 
+    <Button
+        android:id="@+id/btnCustomNotification"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Custom Notification"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnOneChanel" />
+
 </android.support.constraint.ConstraintLayout>

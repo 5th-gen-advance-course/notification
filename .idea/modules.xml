@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NotificationDemo.iml" filepath="$PROJECT_DIR$/NotificationDemo.iml" />
+      <module fileurl="file://C:\Users\ratha\Documents\android app\notificationDemo\NotificationDemo.iml" filepath="C:\Users\ratha\Documents\android app\notificationDemo\NotificationDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\ratha\Documents\android app\notificationDemo\app\app.iml" filepath="C:\Users\ratha\Documents\android app\notificationDemo\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notificationDemo.iml" filepath="$PROJECT_DIR$/notificationDemo.iml" />
     </modules>
   </component>
 </project>
